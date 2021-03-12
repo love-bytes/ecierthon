@@ -1,5 +1,4 @@
 # Makefile for building ecierthon
-# See ../doc/readme.html for installation and customization instructions.
 
 # == CHANGE THE SETTINGS BELOW TO SUIT YOUR ENVIRONMENT =======================
 
@@ -92,7 +91,7 @@ ALL= all
 help:
 	@echo "Do 'make PLATFORM' where PLATFORM is one of these:"
 	@echo "   $(PLATS)"
-	@echo "See doc/readme.html for complete instructions."
+
 
 guess:
 	@echo Guessing `$(UNAME)`
