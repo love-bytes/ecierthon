@@ -1,5 +1,7 @@
-#The Ecierthon Programming Language
-##Awesome programming language based on Lua
+# The Ecierthon Programming Language
+
+## Awesome programming language based on Lua
+
 ### Features
 - simple
 - efficient
